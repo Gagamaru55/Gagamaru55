@@ -1,0 +1,25 @@
+/* External CSS */
+body {
+    font-family: Georgia, serif;
+    background-color: #f0f0f0;
+    margin: 50;
+    padding: 700
+}
+
+.container {
+    max-width: 800px;
+    margin: 100px 0 100px 20px; /* Aligns the container to the left with some margin on the left side */
+    text-align: left; /* Aligns text to the left */
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #2c3e50; /* Elegant dark grey color for the text */
+}
+
+
+h1 {
+    color: #333;
+    font-size: 2.5em;
+    font-weight: bold;
+}
